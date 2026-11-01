@@ -1,44 +1,51 @@
 
-# Hi, I'm Shikha 👋
+# Hi, I'm Shikha Kushwaha 👋
 
-### Web Designer | WordPress | Python Learner
+### Author ✍️ | Web Designer 🎨 | Python Learner 🐍
 
-Welcome to my GitHub! I'm a creative professional exploring the
-world of technology, web development, and programming.
+I'm an author and creative professional who loves combining
+storytelling, design, and technology.
 
-I enjoy combining creativity with technology to build useful
-and visually appealing digital experiences.
+From writing books and creating stories to designing websites
+and learning to code, I enjoy turning ideas into something
+meaningful.
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-- 🎨 Interested in web design and UI
-- 🌐 Experienced in WordPress website building
-- 🐍 Learning Python programming
-- 💻 Exploring HTML, CSS, JavaScript, and Git
-- 📚 Also an author who loves creativity and storytelling
-- 🎯 Working towards a strong developer portfolio
+- ✍️ Author exploring emotions, relationships, and human stories
+- 🌐 Web designer with an interest in WordPress
+- 🎨 Canva enthusiast and creative designer
+- 🐍 Learning Python and web development
+- 💻 Building projects that combine creativity and technology
+- 🚀 Working towards a professional portfolio and freelance career
 
 ## 🛠️ Skills & Tools
 
-- **Design:** Canva, UI Design
-- **Website Building:** WordPress
+- **Writing:** Creative Writing, Poetry, Storytelling, Editing
+- **Design:** Canva, Visual Design, UI Design
+- **Web:** WordPress, HTML, CSS (as practiced)
 - **Programming:** Python (learning)
-- **Web Development:** HTML, CSS, JavaScript (learning)
+
+## 📚 Writing & Publishing
+
+I'm passionate about creating stories and books that readers
+can connect with emotionally.
+
+My writing journey is an important part of who I am.
 
 ## 🚀 Projects
 
-- 🌐 Personal Portfolio Website
-- 🎨 Creative Website Design
-- 🐍 Python Mini Projects
+- Personal Portfolio Website
+- Creative Website Design
+- Python Mini Projects
+- Author Website and Book Portfolio
 
-More projects coming soon!
+## 🌱 Currently Learning
 
-## 🌱 My Current Goals
-
-- Build real-world coding projects
-- Improve my programming skills
-- Create a professional online portfolio
-- Explore internships and freelance opportunities
+- Python programming
+- Git and GitHub
+- Responsive web development
+- Building and publishing real-world projects
 
 ## 🤝 Connect With Me
 
@@ -46,5 +53,4 @@ More projects coming soon!
 
 ---
 
-✨ *Learning, building, and growing one project at a time.*
-
+*Writing stories, designing experiences, and building my future.*
